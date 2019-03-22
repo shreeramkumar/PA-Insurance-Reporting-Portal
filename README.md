@@ -28,7 +28,7 @@ The accident reporting portal and database is hosted internally on our premises 
          Database connectivity for Reporting portal  is done by prema.
 ## Module 3
          Exporting data into excelsheet is done by Vigneshwaran.
-         Email notification is not yet completed and will be completed by shree ram kumar and prema.
+         Email notification is completed by shree ram kumar and prema.
 ## Remaining Work
 we want to make a email notification to the client that contains the informations such as clients  Name , amount to cliam, date of cliam etc
 
